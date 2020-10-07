@@ -1,7 +1,7 @@
 
 ![Screenshot](https://user-images.githubusercontent.com/35530053/95294681-58534900-0893-11eb-93cd-17625865662a.png)
 
-### Url metadata provider using microlink api
+### Url metadata provider using microlink api. [Matesfeed Preview](https://sleepingsaint.github.io/preview/) is available here.
 ----
 ### :fire: Usage
 
