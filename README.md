@@ -3,7 +3,7 @@
 
 ### Url metadata provider using microlink api
 ----
-### usage
+### :fire: Usage
 
 * Add the url, you want to fetch matadata for and click get preview button
 
